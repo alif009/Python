@@ -1,2 +1,3 @@
 # Python
-print ("Hello")
+a = "Alif"
+print (a)
