@@ -1,2 +1,2 @@
 # Python
-Learning project
+print ("Hello")
